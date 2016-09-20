@@ -1,5 +1,26 @@
 @charset "utf-8";
 
-td.serious {
-  background-color: #fc9;
+.grade-a {
+  background-color: #127c3d;
+  color: #fff;
+}
+
+.grade-b {
+  background-color: #97b55a;
+  color: #fff;
+}
+
+.grade-c {
+  background-color: #f6bc1e;
+  color: #fff;
+}
+
+.grade-d {
+  background-color: #da6b27;
+  color: #fff;
+}
+
+.grade-f {
+  background-color: #ee2123;
+  color: #fff;
 }
