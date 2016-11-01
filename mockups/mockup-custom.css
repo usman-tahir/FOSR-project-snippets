@@ -30,6 +30,11 @@ body {
   color: #fff;
 }
 
+.grade-na {
+  background-color: darkgray;
+  color: #fff;
+}
+
 table {
   background-color: white;
 }
